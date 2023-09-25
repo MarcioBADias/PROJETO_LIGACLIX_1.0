@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    background: #0000CD;
+    display:flex;
+    height: 10vh;
+}
+
+.logoNav{
+    height: 9vh;
+}
+body{
+    background: #F5F5F5;
+}
+footer{
+    background: #FF0000;
+    display:flex;
+}
