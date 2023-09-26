@@ -5,17 +5,44 @@
 }
 
 nav{
+    align-items: center;
     background: #0000CD;
     display:flex;
+    justify-content: space-between;
     height: 10vh;
 }
 
 .logoNav{
     height: 9vh;
+    margin-left: 1rem;
 }
+
+#search{
+    border-radius: 15px;
+    margin-left: -3rem;
+    padding: .5rem;
+    width: 500px;
+}
+
+.addClix{
+    background: #0000CD;
+    border-radius: 15px;
+    color: white;
+    font-size: 1rem;
+    margin-right: 2rem;
+    padding: .5rem;
+}
+
+.addClix:hover{
+    background: #FF0000;
+    cursor: pointer;
+    opacity: 1;
+}
+
 body{
     background: #F5F5F5;
 }
+
 footer{
     background: #FF0000;
     display:flex;
