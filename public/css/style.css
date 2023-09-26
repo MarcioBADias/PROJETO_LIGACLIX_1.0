@@ -43,6 +43,20 @@ body{
     background: #F5F5F5;
 }
 
+section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.card{
+    width: 18rem;
+}
+
+.card-img-top{
+    width: 100%;
+}
+
 footer{
     background: #FF0000;
     display:flex;

@@ -26,14 +26,14 @@ app.get('/', (req, res) => {
         edition: 'AV60',
         serie: '37a',
         name: 'Hulk',
-        img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPkdhYnzQuhzfDMAlxWP2VMEnYrAvEfLppSCiXPJ4vQTCEAv8f00HPCAvpQp5mw1tSsvw&usqp=CAU",
+        img: "https://res.cloudinary.com/csicdn/image/upload/c_pad,fl_lossy,h_350,q_auto,w_350/v1/Images/Products/Misc%20Art/Heroclix/full/hc_ma60_037a.jpg ",
         price: 50
     },
     {
         edition: 'AV60',
         serie: '37b',
         name: 'Hulk Prime',
-        img: "",
+        img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMrz_1j-XORTD0F1-4alOhpjAoizA5xTe5kD6jb0dxFm3gsDZvo4gyHQhRfxjBmur8GGA&usqp=CAU",
         price: 600
     },
     {
